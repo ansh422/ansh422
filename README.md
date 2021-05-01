@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **ansh422/ansh422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everyone, I am Ansh Gupta.
+
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422)
