@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 Hello everyone, I am Ansh Gupta.
 
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh422)](https://github.com/ansh422/github-readme-stats)
