@@ -21,4 +21,4 @@ Hello everyone, I am Ansh Gupta.
 
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422&count_private=true&show_icons=true&theme=dracula) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh422)](https://github.com/ansh422/github-readme-stats&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh422&layout=compact&theme=dracula)](https://github.com/ansh422/github-readme-stats&layout=compact)
