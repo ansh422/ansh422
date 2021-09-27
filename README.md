@@ -26,6 +26,6 @@ Hello everyone, I am Ansh Gupta.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh422&layout=compact&theme=dracula)](https://github.com/ansh422/github-readme-stats&layout=compact)
 
-Feel free to reach out to me by:
+Feel free to reach out to me:
 - 💬[My Website](https://www.anshgupta.tech/)
 - 📫[LinkedIn](https://www.linkedin.com/in/ansh422/)
