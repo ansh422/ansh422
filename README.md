@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ansh422)
+
+
+
 <!--
 **ansh422/ansh422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, I am Ansh Gupta.
+Hello everyone, I am Ansh Gupta. 
 
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422&show_icons=true&theme=dracula) 
+<!--![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh422&show_icons=true&theme=dracula) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh422&layout=compact&theme=dracula)](https://github.com/ansh422/github-readme-stats&layout=compact)
+
+Feel free to reach out to me by:
+- 💬[My Website](https://www.anshgupta.tech/)
+- 📫[LinkedIn](https://www.linkedin.com/in/ansh422/)
