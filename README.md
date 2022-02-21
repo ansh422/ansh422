@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansh422)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=ansh422) -->
 
 
 
