@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Ansh Gupta, a Software Engineer at Indonesia's most visited<br>e-commerce company, Tokopedia (now GoTo). I am a graduate from <br>IIITDM Jabalpur at Electronics and Communication Engineering (ECE). <br>I am currently working on Go, NSQ with a side of Python.
+Hi, I am Ansh Gupta, a Software Engineer at Indonesia's most visited e-commerce company, Tokopedia (now GoTo). I am a graduate from IIITDM Jabalpur at Electronics and Communication Engineering (ECE). I am currently working on Go, NSQ with a side of Python.
 
 
 ## 🌐 Socials:
